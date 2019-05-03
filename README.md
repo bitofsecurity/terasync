@@ -13,7 +13,7 @@ My transfer maxed at ~920MBps speed copying multiple large
 files ~210GB in total</pre>
 
 
-<pre>Simply create a file terasync.sh in your home directory and use "sh terasync.sh" to run it. The script will explain rest of the steps. </pre>
+Simply create a file terasync.sh in your home directory and use "sh terasync.sh" to run it. The script will explain rest of the steps.
 
 <pre>==================================================================================================================
 root@ubuntu18:~# sh terasync.sh
