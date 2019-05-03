@@ -15,7 +15,7 @@ files ~210GB in total
 
 Simply create a file terasync.sh in your home directory and use "sh terasync.sh" to run it. The script will explain rest of the steps. 
 
-==================================================================================================================
+<pre>==================================================================================================================
 root@ubuntu18:~# sh terasync.sh
 #####################################################################
 Package: terasync
@@ -71,3 +71,4 @@ Defined maximum connections we are going to open: 123
 ###############  Starting Copy, please be patient  ###############
 
 root@ubuntu18:~#
+</pre>
