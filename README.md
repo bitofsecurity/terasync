@@ -2,7 +2,7 @@
 Multi Threaded rsync script that theoratically can copy to any max speed
 
 
-Package: terasync
+<pre>Package: terasync
 Version: 0.1
 Priority: optional
 Maintainer: Shakil Islam <shakil.islam@gmail.com>
@@ -10,10 +10,10 @@ Depends: rsync, bash
 Description: A multi-threaded rsync script to copy large files.
 This script was tested on my home Ethernet Over Power 1GB link and
 My transfer maxed at ~920MBps speed copying multiple large
-files ~210GB in total
+files ~210GB in total</pre>
 
 
-Simply create a file terasync.sh in your home directory and use "sh terasync.sh" to run it. The script will explain rest of the steps. 
+<pre>Simply create a file terasync.sh in your home directory and use "sh terasync.sh" to run it. The script will explain rest of the steps. </pre>
 
 <pre>==================================================================================================================
 root@ubuntu18:~# sh terasync.sh
